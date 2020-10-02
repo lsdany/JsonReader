@@ -1,0 +1,51 @@
+[
+    {
+      "id" : 2209345890101,
+      "nombre": "Jose",
+      "apellido": "Perez",
+      "telefono": 55512345,
+      "direccion": "ciudad",
+      "cuenta": [
+        {
+          "noCuenta": 9999912,
+          "saldo": 39.90,
+          "fechaCreacion": "29/04/2020",
+          "idUsuario": 2209345890101,
+          "tipoCuenta": "AHORRO",
+          "tipoMoneda": "QUETZAL"
+        },{
+          "noCuenta": 88839392,
+          "saldo": 4890.25,
+          "fechaCreacion": "01/01/2020",
+          "idUsuario": "2209345890101",
+          "tipoCuenta": "MONETARIA",
+          "tipoMoneda": "QUETZAL"
+        }]
+    },
+  {
+    "id" : 2209345890101,
+    "nombre": "Manuel",
+    "apellido": "Perez",
+    "telefono": 65489721,
+    "direccion": "ciudad",
+    "cuenta": [
+      {
+        "noCuenta": 99984452,
+        "saldo": 39545.90,
+        "fechaCreacion": "29/04/2020",
+        "idUsuario": 2209345890109,
+        "tipoCuenta": "AHORRO",
+        "tipoMoneda": "QUETZAL"
+      },{
+        "noCuenta": 88839392,
+        "saldo": 4890544.25,
+        "fechaCreacion": "01/01/2020",
+        "idUsuario": "2209345890109",
+        "tipoCuenta": "MONETARIA",
+        "tipoMoneda": "QUETZAL"
+      }]
+  }
+]
+
+
+
